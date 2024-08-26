@@ -19,8 +19,9 @@ const Table = ({ sat }) => {
      </tr>
      ))}
      </tbody>
-   </table>
+   </table>  
   );
+  
 };
 
 export default Table;
